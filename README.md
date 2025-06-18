@@ -2,6 +2,10 @@
 🧠 Stream-Based Quiz Website
 A responsive and interactive quiz platform where users can select a stream (like Computer Science, General Knowledge, Current Affairs, Mathematics, or Commerce) and take a quiz with multiple-choice questions. The quiz tracks scores, includes a timer, and provides audio feedback on correct/incorrect answers.
 
+🌐 Live Demo
+**[Click here to visit the website](https://stream-based-quiz16.netlify.app)**
+
+
 🚀 Features
 🔐 User registration with name and stream selection
 
